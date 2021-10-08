@@ -1,4 +1,4 @@
-Feature: Share with a friend
+Feature: Share a book with a friend using email
 @smoke
   Scenario: Share a book with a friend
   Given Customer is on Demo shop home page
